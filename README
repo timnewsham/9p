@@ -4,7 +4,7 @@ Tim Newsham
 Public Domain.
 
 This code is in the public domain.
-Please send any bug reports to newsham@lava.net.
+Please send any bug reports to tim dot newsham at gmail dot com.
 
 - cl.py is a 9p client that can be run from the command line.
 	cl.py [-d] [-a authsrv] [-n] [-p srvport] user srv [cmd ...]
